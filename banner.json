@@ -1,0 +1,29 @@
+[
+  {
+    "id": "shop-2024",
+    "type": "highlight",
+    "icon": "cart",
+    "title": "需要 Windsurf 账号？来小铺购买试用号",
+    "desc": "即买即用，快速体验 Windsurf Pro",
+    "tag": "HOT",
+    "url": "https://pay.ldxp.cn/shop/84FRGTKZ",
+    "buttons": null,
+    "priority": 10,
+    "enabled": true
+  },
+  {
+    "id": "community-qq-tg",
+    "type": "normal",
+    "icon": "users",
+    "title": "交流群",
+    "desc": "加群获取最新动态、反馈问题、交流使用技巧",
+    "tag": null,
+    "url": null,
+    "buttons": [
+      { "label": "QQ", "url": "https://qm.qq.com/q/y6m8rwbDP2", "style": "primary" },
+      { "label": "TG", "url": "https://t.me/+zOSxZsYHCY5kNTFl", "style": "ghost" }
+    ],
+    "priority": 5,
+    "enabled": true
+  }
+]
